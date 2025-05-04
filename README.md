@@ -11,7 +11,7 @@ A modern and responsive website showcasing premium wall panels and interior deco
 ![Homepage](images/hero.png)
 ![Products Page](images/black1.png)
 
-# All images can't be dsiplayed due to github policy some are upload
+# All images can't be displayed due to github policy some are upload
 
 
 ## 🚀 Features
