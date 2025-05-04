@@ -10,7 +10,8 @@ A modern and responsive website showcasing premium wall panels and interior deco
 
 ![Homepage](images/hero.png)
 ![Products Page](images/black1.png)
-all images can't be upload due to github policy some are upload
+
+# All images can't be dsiplayed due to github policy some are upload
 
 
 ## 🚀 Features
@@ -50,7 +51,7 @@ all images can't be upload due to github policy some are upload
 │ └── script.js
 
 1. Clone the repository:
-   
+   https://github.com/MitanshuAK98/FutureDecore.git
 2. Open index.html in your browser.
 
 
